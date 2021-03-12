@@ -1,0 +1,15 @@
+/Users/timtieng/Github/CSharp/UniqueCharacters/bin/Debug/net5.0/UniqueCharacters.deps.json
+/Users/timtieng/Github/CSharp/UniqueCharacters/bin/Debug/net5.0/UniqueCharacters.runtimeconfig.json
+/Users/timtieng/Github/CSharp/UniqueCharacters/bin/Debug/net5.0/UniqueCharacters.runtimeconfig.dev.json
+/Users/timtieng/Github/CSharp/UniqueCharacters/bin/Debug/net5.0/UniqueCharacters.dll
+/Users/timtieng/Github/CSharp/UniqueCharacters/bin/Debug/net5.0/ref/UniqueCharacters.dll
+/Users/timtieng/Github/CSharp/UniqueCharacters/bin/Debug/net5.0/UniqueCharacters.pdb
+/Users/timtieng/Github/CSharp/UniqueCharacters/obj/Debug/net5.0/UniqueCharacters.csprojAssemblyReference.cache
+/Users/timtieng/Github/CSharp/UniqueCharacters/obj/Debug/net5.0/UniqueCharacters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timtieng/Github/CSharp/UniqueCharacters/obj/Debug/net5.0/UniqueCharacters.AssemblyInfoInputs.cache
+/Users/timtieng/Github/CSharp/UniqueCharacters/obj/Debug/net5.0/UniqueCharacters.AssemblyInfo.cs
+/Users/timtieng/Github/CSharp/UniqueCharacters/obj/Debug/net5.0/UniqueCharacters.csproj.CoreCompileInputs.cache
+/Users/timtieng/Github/CSharp/UniqueCharacters/obj/Debug/net5.0/UniqueCharacters.dll
+/Users/timtieng/Github/CSharp/UniqueCharacters/obj/Debug/net5.0/ref/UniqueCharacters.dll
+/Users/timtieng/Github/CSharp/UniqueCharacters/obj/Debug/net5.0/UniqueCharacters.pdb
+/Users/timtieng/Github/CSharp/UniqueCharacters/obj/Debug/net5.0/UniqueCharacters.genruntimeconfig.cache
