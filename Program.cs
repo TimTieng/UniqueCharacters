@@ -18,14 +18,17 @@ namespace UniqueCharacters
             // iterate through the array - nested for loop
             for (var i = 0; i < charArr.Length; i++)
             {
+                // J index to evaluate another index in the array to compare to i
                 for (var j = i+ 1; j < charArr.Length; j++)
                 {
                     if (charArr[i] == charArr[j])
                     {
+                        // if the values are equal, implies there are duplicates / Not Unique
                         duplicateCount++;
                     }
                 }
             }
+            // duplicateCount value determines if string contains all unique characters
             if (duplicateCount == 0)
             {
                 Console.WriteLine("The string has all unique letters");
@@ -45,3 +48,6 @@ namespace UniqueCharacters
         }
     }
 }
+/*
+Space Complexity Big O = O(n) Time
+*/
